@@ -1,7 +1,7 @@
 # demo-two
-example of demo reporsitory
+#example of demo reporsitory
 
-Update readme file
+U##pdate readme file
 
 I Am learning git. First feel its complecated. Now looking good
 
