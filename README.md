@@ -1,3 +1,5 @@
+git rights reservered stashing
+
 # demo-two
 #example of demo reporsitory
 
