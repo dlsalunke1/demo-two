@@ -6,3 +6,5 @@ Dayanand Salunke Learning git.
 I am learning git.
 
 I am modifying a file on 25 Sep 2025.
+
+Learning multiple stashing
