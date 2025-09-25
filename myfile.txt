@@ -1,3 +1,4 @@
 creating my new myfile txt to test it.
 Boragon is my vilage.
 file modified tody
+added new line to check stashing 
