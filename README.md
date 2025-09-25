@@ -13,4 +13,4 @@ Made change in md file while checking branching
 Updating the file paralled with myfeature branch
 Updating this file in Myfeature branch after rebasae
 
-Editing the file via portal
+Editing the file via git portal
